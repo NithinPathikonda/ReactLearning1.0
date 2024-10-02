@@ -1,0 +1,21 @@
+{
+  "name": "reacth",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "akshay",
+    "saini"
+  ],
+  "author": "Nithin",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
